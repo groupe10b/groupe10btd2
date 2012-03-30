@@ -1,4 +1,5 @@
-"""Module incluant des fonctions mathématiques"""
+#-*- coding: utf-8 -*-
+"""Module incluant des fonctions mathematiques"""
 
 def add(a, b):
 	return a+b
